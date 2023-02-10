@@ -1,0 +1,2 @@
+#!/bin/bash
+chmo _R +X .
